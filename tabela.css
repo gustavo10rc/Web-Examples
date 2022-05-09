@@ -1,0 +1,73 @@
+/*ajustar cores*/
+.Libertadores{
+    color: blue;  
+}
+.Prelibertadores{
+    color: lightblue;
+}
+
+.Sulamericana{
+    color: green;
+}
+
+.Manteve{
+    color: grey;
+}
+
+.Rebaixado{
+    color: red;
+}
+
+.cortabela{
+    background-color: #f5f5f5;
+}
+
+.cortabelacoluna1{
+    background-color: #f5f5f5;
+    font-weight: 900;
+    
+
+}
+/*ajustar coluna zero*/
+.colunazero{
+    text-align: left !important;
+    width: 200px !important;
+    height: 50px !important;
+}
+/*ajustar linhas*/
+.tablee td {
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    border-style: solid;
+    border-bottom-width: 1px;
+    border-top-width: 0;
+    border-right-width: 0;
+    border-left-width: 0;
+    border-color: rgb(251, 0, 0);
+}
+/*ajustar cabeçalho*/
+.tablee th{
+   color: #999;
+   font-weight: 300;
+   font-family: opensans;
+   font-size: 10pt;
+}
+/*ajustar cor e posicao das equipes*/
+.classificacao__equipes{
+color: #999;
+position: relative;
+    float: right;
+}
+/*icone pra cima*/
+.classificacao__icone1{
+    width: 20px;
+}
+/*icone pra baixo*/
+.classificacao__icone{
+    width: 10px;
+}
+/*icone quadrado*/
+.classificacao__icone2{
+    width: 8px;
+}
